@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Luther",
+        "artist": "Kendrick Lamar & SZA",
+        "album": "GNX",
+        "image": "images/gnx.jpg"
+    },
+    {
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "album": "Mayhem",
+        "image": "images/die.jpg"
+    },
+    {
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "album": "Single",
+        "image": "images/not.jpg"
+    },
+    {
+        "title": "TV Off",
+        "artist": "Kendrick Lamar featuring Lefty Gunplay",
+        "album": "GNX",
+        "image": "images/gnx.jpg"
+    },
+    {
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "album": "Where I've Been, Isn't Where I'm Going",
+        "image": "images/where.png"
+    },
+    {
+        "title": "APT.",
+        "artist": "ROSE & Bruno Mars",
+        "album": "1989",
+        "image": "images/apt.png"
+    },
+    {
+        "title": "Birds Of A Feather",
+        "artist": "Billie Eilish",
+        "album": "Hit Me Hard and Soft",
+        "image": "images/hit.jpg"
+    },
+    {
+        "title": "Pink Pony Club",
+        "artist": "Chappell Roan",
+        "album": "The Rise and Fall of a Midwest Princess",
+        "image": "images/rise.png"
+    },
+    {
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything but Therapy",
+        "image": "images/therapy.jpg"
+    },
+    {
+        "title": "Nokia",
+        "artist": "Drake",
+        "album": "$ome $exy $ongs 4 U",
+        "image": "images/nokia.jpg"
+    }
+]
